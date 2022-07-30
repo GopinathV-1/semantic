@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f88cd4-3425-4ebe-9b08-2ed70a7c61cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/semantic_app/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/semantic_app/helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semantic_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/semantic_app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,5 +34,16 @@
       <updated>1659179457871</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
