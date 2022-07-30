@@ -12,7 +12,6 @@ def fetch_sales(year, drug_type):
     return format_value
 
 
-id,datum,m01ab,m01ae,n02ba,n02be,n05b,n05c,r03,r06,year
 drugs = ['m01ab','m01ae','n02ba','n02be','n05b','n05c','r03','r06'] 
 def create_sales_entries():
     with open('PharmaSales.csv', 'r') as file:
