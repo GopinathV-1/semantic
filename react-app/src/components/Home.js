@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import AssignmentForm from "./AssignmentForm";
+import InputForm from "./InputForm";
+import SalesTable from "./SalesTable";
 import axios from "axios";
 
 const Home = ({ history }) => {
